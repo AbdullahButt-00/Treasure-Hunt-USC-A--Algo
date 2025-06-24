@@ -103,14 +103,11 @@ python enchanted_forest_treasure_hunt.py
 
 ## 📸 Screenshots
 
-You can add your uploaded screenshots here by embedding them like this (after placing them in the repo):
 
-```markdown
 ![Screenshot 1](img1.png)
 ![Screenshot 2](img2.png)
 ![Screenshot 3](img3.png)
 ![Screenshot 3](img4.png)
-```
 
 
 
