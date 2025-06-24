@@ -97,6 +97,7 @@ Testing & Optimization: Collaborative debugging, performance tuning, and feature
 📸 Screenshots
 
 
-![Screenshot 1](screenshots/Screenshot1.png)
-![Screenshot 2](screenshots/Screenshot2.png)
-![Screenshot 3](screenshots/Screenshot3.png)
+![Screenshot 1](img1.png)
+![Screenshot 2](img2.png)
+![Screenshot 3](img3.png)
+![Screenshot 3](img4.png)
